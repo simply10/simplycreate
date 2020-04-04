@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hey!!
 I am good,how are you doing?
 
@@ -10,3 +11,4 @@ Bye.
 BBye
 
 It is weekend...enjoy ;)
+
