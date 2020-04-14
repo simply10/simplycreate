@@ -1,11 +1,9 @@
-Hey!!
-I am good,how are you doing?
+java -version
 
-How are you?
+javac version
 
-Have a good day!!
+javac programname.java
 
-Welcome
-Bye.
-BBye
+java programname
 
+jar cvfe jarname.jar programname classfilename.class
