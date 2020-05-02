@@ -1,11 +1,8 @@
-java -version
+Thank you for using our template!
 
-javac version
+For more awesome templates please visit https://colorlib.com/wp/templates/
 
-javac programname.java
+Copyright information for the template can't be altered/removed unless you purchase a license.
+More information about the license is available here: https://colorlib.com/wp/licence/
 
-java programname
-
-jar cvfe jarname.jar programname classfilename.class
-
-
+Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
